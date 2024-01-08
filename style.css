@@ -35,7 +35,7 @@
 .row-wrapper {
   display: flex;
 }
-#incompleteTasks {
+#incomplete-tasks {
   margin: 0;
   padding: 0px;
 }
@@ -140,11 +140,11 @@ button {
   display: none;
 }
 
-.editMode .input {
+.editmode .input {
   display: inline-block;
   width: 224px;
 }
 
-.editMode .label {
+.editmode .label {
   display: none;
 }
